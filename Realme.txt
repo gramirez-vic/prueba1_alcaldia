@@ -11,18 +11,18 @@
         1.1.1 -> index.php. Este documento procedera a la creacion de la tabla usuarios en la base de datos,
                 continuamente, procedera a registrar en dicha tabla los 3 registros solicitados, 
                 los cuales vera en pantalla.
-                ruta: http://localhost/pruebas_alcaldia/primera_parte/index.php
+                ruta: http://localhost/prueba1_alcaldia/primera_parte/index.php
 
         1.1.2 -> consulta_email.php, al abrir este documento, podra ingresar por medio de un input, 
                 uno de los email mostrados en la vista anterior "index.php", al dar click al verificar email
                 este procedera a mostrar en pantalla el nombre del usuario.
-                ruta: http://localhost/pruebas_alcaldia/primera_parte/consulta_email.php
+                ruta: http://localhost/prueba1_alcaldia/primera_parte/consulta_email.php
         
         1.1.3 ->consulta_nombre.php, en este documento, podra ingresar el nombre del usuario mostrados en la 
                 tabla de la vista index.php, en el cual debera ingresar el nombre de uno de los usuarios y
                 la nueva contraseña en sus input correspondientes, esto con el fin de cumplir con el objetivo
                 de realizar el cambio de contraseña.
-                ruta:http://localhost/pruebas_alcaldia/primera_parte/consulta_nombre.php
+                ruta:http://localhost/prueba1_alcaldia/primera_parte/consulta_nombre.php
 
 2.  Para continuar con los ejecutables directos desde el servidor, es necesario ingresar a la carpeta 
     segunda_parte, en el archivo backup_db.php podra encontra el codigo con sus respectivos comentarios 
@@ -35,7 +35,7 @@
     una vez el usuario realice este paso, se procedera a enviar al formulario de login "login.php", en el
     debera realizar autenticacion de usuario y contraseña, para proceder a crear la sesion y enviar a
     dashboard.php
-    ->http://localhost/pruebas_alcaldia/desarrollo_web/index.php
+    ->http://localhost/prueba1_alcaldia/desarrollo_web/index.php
 
 4. instalacion y ejecutar e instalar el archivo
     - Por favor seguir los pasos de instalación
@@ -46,15 +46,15 @@
 
 5. para la cuarta prueba, es necesario tener instalado el punto 4.
     -por favor, para poder iniciar lo solicita se debe de hacer lo siguiente:
-    5.1 ingresar a la ruta:  C:\xampp\htdocs\pruebas_alcaldia\prueba_cuatro\mongo> y ejecutar el siguiente comando
+    5.1 ingresar a la ruta:  C:\xampp\htdocs\prueba1_alcaldia\prueba_cuatro\mongo> y ejecutar el siguiente comando
      node index.js este se ejecutara automaticamente, para mas informacion ingresar a la carpeta de 
      prueba_cuatro y alli encontrara el archivo para ller acerca de su funcionamiento
 
-     *Nota: antes de pasar al punto 6 es necesario ingresar a la ruta C:\xampp\htdocs\pruebas_alcaldia\prueba_cuatro\mongo>
+     *Nota: antes de pasar al punto 6 es necesario ingresar a la ruta C:\xampp\htdocs\prueba1_alcaldia\prueba_cuatro\mongo>
      a continuacion, ejecutar el comando: node server.js, esto con el fin de jecutar el servicio para iniciar
      con el siguiente punto de la prueba.
 
-6. quita prueba, ingresar a la ruta C:\xampp\htdocs\pruebas_alcaldia\prueba_quinta\productosApp> y ejecutar el comando:
+6. quita prueba, ingresar a la ruta C:\xampp\htdocs\prueba1_alcaldia\prueba_quinta\productosApp> y ejecutar el comando:
     ionic serve, este levantara la el puerto donde se ejecutara la aplicacion movil en la web, si es necesario
     
     *Nota: es necesario realizar los puntos anteriores para su funcionamiento, en caso que de error al ejecutar

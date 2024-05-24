@@ -2,7 +2,7 @@
     1.1 coleccion de nombre: pruebas
     1.2 base de datos prueba_productos
 
-    * ingresar por terminar a la ruta C:\xampp\htdocs\pruebas_alcaldia\prueba_cuatro\mongo>
+    * ingresar por terminar a la ruta C:\xampp\htdocs\prueba1_alcaldia\prueba_cuatro\mongo>
     ejecutar el siguiente comando:
      -> node index.js
 
