@@ -1,0 +1,2 @@
+1. Antes de agregar el sql, es necesario crear la base de datos de nombre: prueba
+esto con el fin que cumpla los estandares y los requerimientos.
