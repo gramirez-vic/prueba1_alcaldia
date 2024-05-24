@@ -1,0 +1,20 @@
+1. Al instalar mongo db, es necesario crear:
+    1.1 coleccion de nombre: pruebas
+    1.2 base de datos prueba_productos
+
+    * ingresar por terminar a la ruta C:\xampp\htdocs\pruebas_alcaldia\prueba_cuatro\mongo>
+    ejecutar el siguiente comando:
+     -> node index.js
+
+     si todo sale bien, mostrara el siguiente mensaje
+
+
+     PS C:\xampp\htdocs\pruebas_alcaldia\prueba_cuatro\mongo> node index.js
+    (node:10020) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+    (Use `node --trace-warnings ...` to show where the warning was created)
+    (node:10020) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+    Conectado a MongoDB
+    Productos insertados
+    El precio de Pony malta es 2000
+
+
